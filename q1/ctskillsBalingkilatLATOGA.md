@@ -23,7 +23,6 @@ CT SKILLS:
 
 
 Pseudocode:
-'''
 // Canteen Food Supply Tracking
 
 FUNCTION ProcessOrder(itemID, quantity):
@@ -45,4 +44,3 @@ FUNCTION RestockItem(itemID, quantity):
     inventory[itemID].stock = inventory[itemID].stock + quantity
     DISPLAY "Stock Updated for " + itemID
 END FUNCTION
-'''
