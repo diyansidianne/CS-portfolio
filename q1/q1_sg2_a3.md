@@ -44,7 +44,7 @@ link to code: https://github.com/diyansidianne/CS-portfolio/blob/main/q1/q1_sg2_
 ```
 
 
-![Image of my code](q1/images/myCode.png)
+![Image of my code](./q1/images/myCode.png)
 
 
 
