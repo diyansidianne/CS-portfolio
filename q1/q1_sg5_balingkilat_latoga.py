@@ -16,4 +16,4 @@ Hero2 = Hero("Morgana",100)
 
 # Arthur take 10 damage part
 Hero1.take_damage(10)
-print("Arthur's HP is ",Hero1.hp," Morgana's HP is ",Hero2.hp)
+print("Arthur's HP is",Hero1.hp," Morgana's HP is",Hero2.hp)
