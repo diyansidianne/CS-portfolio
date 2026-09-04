@@ -16,7 +16,7 @@ class Technician:
     def assign_lab(self, lab_obj):
         self.assigned_lab = lab_obj
 
-chem_lab = Lab("Room 302")
+chem_lab = Lab("302")
 mr_cruz = Technician("Mr. Cruz")
 mr_cruz.assign_lab(chem_lab)
 
